@@ -1,4 +1,4 @@
-class Testing 
+class L2taskA
 {
   public static void main(String [] args) 
   {
