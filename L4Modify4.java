@@ -1,4 +1,4 @@
-class Main 
+class L4Modify4
 {
     public static void main(String[] args) 
     {
