@@ -1,7 +1,7 @@
 /*
  * Debugging L1: Numbers
  */
-class Main 
+class U5_L1 
 {
   public static void main(String[] args) 
   {
