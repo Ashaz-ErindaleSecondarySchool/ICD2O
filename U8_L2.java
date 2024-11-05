@@ -1,5 +1,17 @@
 import java.util.Scanner;
 
+/*
+Ashaz Siddiqui 783827
+Date: 4 November, 2024
+Course: Grade 10 Digital technology and innovations
+Title: Simple calculator 
+Description: a program that does calculations with 2 numbers and a operator
+VARIABLE DICTIONARY: 
+  op   (char)the operator of the calculation
+  num1 (double)the first number of the equation
+  num2 (double)the second number of the equation
+*/
+
 class U8_L2
 {
     public static void main(String[] args) 
