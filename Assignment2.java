@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author 783827
  */
-public class JavaApplication2Java
+public class Assignment2
 {
 
     /**
