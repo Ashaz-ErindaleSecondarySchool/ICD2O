@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package javaapplication2.java;
 import java.util.Scanner;
 
@@ -21,13 +20,13 @@ public class Assignment2
     {
       Scanner kb = new Scanner(System.in);
       long n = 0;
-      long amount = 0;
-      long largest = 0;
-      char resp;
+      long quantity = 0;
+      long big = 0;
+      char answer;
       
     do 
     {
-            largest = 0;
+            big = 0;
             System.out.print("Enter a value for n: ");
             n = kb.nextLong();
             System.out.printf("%,d; ", n);
@@ -45,23 +44,23 @@ public class Assignment2
                     System.out.printf("%,d; ", n);
                 }
                 
-                if (n > largest) 
+                if (n > big) 
                 {
-                    largest = n;
+                    big = n;
                 }
                 
                 if (n >= 1)
                 {
-                    amount++;
+                    quantity++;
                 }
             }
-            amount++;
-            System.out.printf("\nThe largest number was %,d", largest);
-            System.out.printf("\nThere were %,d number of terms", amount);
+            quantity++;
+            System.out.printf("\nThe largest number was %,d", big);
+            System.out.printf("\nThere were %,d number of terms", quantity);
             System.out.print("Do you wish to continue? (y/n)");
-            resp = kb.next().toLowerCase().charAt(0);
+            answer = kb.next().toLowerCase().charAt(0);
         }
-        while (resp == 'y');
+        while (answer == 'y');
 
     }
     
