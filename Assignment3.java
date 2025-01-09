@@ -1,5 +1,16 @@
 package assignment3;
-
+/*
+Ashaz Siddiqui 783827
+Date: 9 January, 2025
+Course: Grade 10 Comp Sci
+Title: Rock, Paper, Scissors 
+Description: A program which allows the user to play a game of rock, paper, scissors with a bot.
+VARIABLE DICTIONARY: 
+ playerScore     (int) The player's score
+ computerScore  (int) The bot's score
+ Total Games     (int) The amount of games the player chose
+ ties  (int) The amount of ties in the game 
+*/
 import java.util.Random;
 import java.util.Scanner;
 
