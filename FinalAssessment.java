@@ -5,7 +5,7 @@ Ashaz Siddiqui 783827
 Date: 17 January, 2025
 Course: Grade 10 Comp Sci
 Title: Final Assessment: Credit River Credit Cards 
-Description: A program which outputs A listing of all account numbers and their final balances, The account number and balance of the highest final balance, The account number and balance of the lowest final balance, The average balance.
+Description: A program which outputs A listing of all account numbers and their final balances, The account number and balance of the highest final balance, The account number and balance of the lowest final balance, and The average balance.
 VARIABLE DICTIONARY: 
   largest     (Double) To store the largest final balance
   smallest    (double) the current highest number
