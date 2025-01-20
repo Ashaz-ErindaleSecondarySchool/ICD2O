@@ -8,7 +8,7 @@ Title: Final Assessment: Credit River Credit Cards
 Description: A program which outputs A listing of all account numbers and their final balances, The account number and balance of the highest final balance, The account number and balance of the lowest final balance, and The average balance.
 VARIABLE DICTIONARY: 
   largest     (Double) To store the largest final balance
-  smallest    (double) the current highest number
+  smallest    (double) To store the smallest final balance
   sumOfBalances     (Double) To sum up all final balances
   tally     (Int) to count the number of customers
   largestAccount (String) To store account number of largest balance
